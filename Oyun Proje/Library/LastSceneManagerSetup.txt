@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/21.11.2020-Sur yap\u0131m\u0131/1.1/1.1.unity"
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
